@@ -28,4 +28,4 @@ Para o projeto, além do flutter, foi utilizado o [GetX][https://pub.dev/package
 
 ## :camera: Screenshot
 
-<img src="D:\Projetos\Flutter\pokedex\assets\screenshots\screenshot.png" style="zoom:25%;" />
+<img src="\assets\screenshots\screenshot.png" style="zoom:25%;" />
